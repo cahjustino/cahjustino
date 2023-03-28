@@ -1,10 +1,10 @@
-### Oi! Meu nome é Carla Justino 👋
+### Oi!Bem vindo ao meu GitHub,eu sou a Carla Justino 👋
 
 - 🔭 Com o que trabalho : Procurando estagio
 - 🌱 O que estou estudando: Desenvolvimento de sistemas multi_plataforma
-- 👯 Olhe minhas colaboração : Colaborando com os 
+- 👯 Olhe minhas colaboração : Colaborando com os colegas de faculdade
 - 🤔 I’m looking for help with: Java
-- 💬 sobre minha pessoa: Apaixonada por tecnologia e entusisata em java
+- 💬 sobre minha pessoa: Apaixonada por tecnologia e entusiasta em java
 - 😄 Pronouns: ela/dela
 
 ##
