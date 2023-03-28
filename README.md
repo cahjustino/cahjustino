@@ -20,15 +20,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://isocpp.org/" target="_blank"> <img align="center" alt="Vini-C++" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
-  <a href="https://www.iso.org/" target="_blank"> <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
-  
-  
-            
-  
+  <a href="https://www.iso.org/" target="_blank"> <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>  
 </div>
 <div> ## Streaks Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielCarolino89&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cahjustino&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
 <br/></div>
   
   ##
@@ -39,11 +35,12 @@
  <a href="https:/cahjustino#7691" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:justinocah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cahjustino947257123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- div>
-
+ 
 <h3 align="center">ACESSOS</h3>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/DanielCarolino89/count.svg" /></p>
-</div>
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
   
  
