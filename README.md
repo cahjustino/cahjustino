@@ -22,11 +22,14 @@
   <a href="https://isocpp.org/" target="_blank"> <img align="center" alt="Vini-C++" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
   <a href="https://www.iso.org/" target="_blank"> <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
   
-           
-          
-        
+  
+            
   
 </div>
+<div> ## Streaks Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielCarolino89&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
+<br/></div>
   
   ##
  
