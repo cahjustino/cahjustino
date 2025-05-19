@@ -1,4 +1,4 @@
-### Oi!Bem vindo ao meu GitHub,eu sou a Carla Justino 👋
+### Oi! Bem vindo ao meu GitHub,eu sou a Carla Justino 👋
 
 - 🔭 Com o que trabalho : Procurando estagio
 - 🌱 O que estou estudando: Analise e desenvolvimento de sistemas
