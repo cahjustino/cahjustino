@@ -42,7 +42,7 @@
 <h3 align="center">ACESSOS</h3>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/cahjustino/count.svg" /></p>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
  
   
