@@ -1,9 +1,8 @@
 ### Oi!Bem vindo ao meu GitHub,eu sou a Carla Justino 👋
 
 - 🔭 Com o que trabalho : Procurando estagio
-- 🌱 O que estou estudando: Desenvolvimento de sistemas multi_plataforma
+- 🌱 O que estou estudando: Analise e desenvolvimento de sistemas
 - 👯 Olhe minhas colaboração : Colaborando com os colegas de faculdade
-- 🤔 I’m looking for help with: Java
 - 💬 sobre minha pessoa: Apaixonada por tecnologia e entusiasta em java
 - 😄 Pronouns: ela/dela
 
